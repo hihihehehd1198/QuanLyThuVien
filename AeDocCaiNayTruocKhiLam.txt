@@ -1,2 +1,3 @@
-minh lam theo mo hinh 3 layer nhe (neu khong biet thi xem trong sach giao trinh c# co day, hay len mang xem cung duoc).
+- minh lam theo mo hinh 3 layer nhe (neu khong biet thi xem trong sach giao trinh c# co day, hay len mang xem cung duoc).
 chu y: Class la cac lop nhu: lop ban doc, lop thu thu, lop admin....
+- attach cai database vao trong sql server, cach lam da dang len nhom lop.
